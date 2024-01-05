@@ -5,6 +5,9 @@
 - 😄 Pronouns: Ele/Dele
 - 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=igormaicon011" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igormaicon&show_icons=true&theme=radical)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
