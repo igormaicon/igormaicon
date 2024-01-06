@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou buscando uma oportunidade de entrar na area de programação
 - 🌱 Estou cursando Analise e Desenvolvimento de Sistemas e estudando Python
-- 😄 Pronouns: Ele/Dele
+- 😄 Ele/Dele
 - 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igormaicon&show_icons=true&theme=radical)
