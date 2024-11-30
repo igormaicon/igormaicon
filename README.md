@@ -29,3 +29,5 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 </div>  
+
+![snake gif](https://github.com/igormaicon/igormaicon/blob/output/github-contribution-grid-snake.svg)
