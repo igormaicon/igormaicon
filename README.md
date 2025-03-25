@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Igor 👋
 
-Sou apaixonado por programação e estou buscando uma oportunidade para iniciar minha carreira na área de desenvolvimento. 
+Sou apaixonado por programação e estou buscando uma oportunidade para iniciar minha carreira na área de desenvolvimento. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **Anhanguera**.
 
 - 🔭 **Objetivo**: Atualmente, estou buscando uma oportunidade para ingressar no mercado de programação.
 - 🌱 **Tecnologias que estou estudando**: Typescript, Java e Python.
