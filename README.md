@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Igor 👋
 
 - 🔭 Atualmente estou buscando uma oportunidade de entrar na area de programação
-- 🌱 Estou cursando Analise e Desenvolvimento de Sistemas e estudando Python
+- 🌱 Atualmente estou estudando as seguintes técnologias: Typescript, Java e Python
 
   
 
@@ -25,7 +25,7 @@
 
   ### Contatos:
 <div>
-<a href="https://www.youtube.com/channel/UCGesy9BdvpYQwlcEZc_qjgg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/@igormmuniz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/igormaicon011" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:igormaicon2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/igormaicon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
