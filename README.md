@@ -45,5 +45,8 @@ Vamos nos conectar! Aqui estão meus links para contato:
   </a>
   <a href="https://www.linkedin.com/in/igormaicon" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+    <a href="https://wa.me/11964295460" target="_blank">
+    <img src="https://img.shields.io/badge/-whatsapp-%23E4405F?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>   
 </div>
