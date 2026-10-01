@@ -1,52 +1,34 @@
-### Olá! Eu sou o Igor 👋
+# Olá, eu sou o Igor 👋
 
-Sou apaixonado por programação e estou buscando uma oportunidade para iniciar minha carreira na área de desenvolvimento. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **Anhanguera**.
+### Técnico de Segurança do Trabalho | Dados, automação e soluções low-code
 
-- 🔭 **Objetivo**: Atualmente, estou buscando uma oportunidade para ingressar no mercado de programação.
-- 🌱 **Tecnologias que estou estudando**: Typescript, Java e Python.
+Uno minha experiência em Segurança do Trabalho à tecnologia para organizar processos, automatizar rotinas e transformar dados em informações úteis para a tomada de decisão.
+
+- 📊 Desenvolvo indicadores e dashboards para acompanhamento de resultados.
+- 🛠️ Crio soluções digitais para inspeções, procedimentos e gestão de atividades.
+- ⚙️ Trabalho principalmente com AppSheet, Google Sheets, Looker Studio e Google Apps Script.
+- 💻 Também desenvolvo projetos com JavaScript e Python.
+
+### Projetos em destaque
+
+- [Sistema de Procedimentos](https://github.com/igormaicon/Sistema-Procedimentos) — gestão de procedimentos e execuções, com controle de acesso, mídias e auditoria.
+- [Verificador de vencimento de documentos](https://github.com/igormaicon/Verificador) — script em Python para localizar datas de validade em arquivos PDF e sinalizar vencimentos.
+- [Gerador de QR Code](https://github.com/igormaicon/GeradorQrCode) — ferramenta em Python para gerar QR Codes a partir de textos ou links.
+
+### Ferramentas
+
+![AppSheet](https://img.shields.io/badge/AppSheet-1A73E8?style=flat-square&logo=google&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igormaicon)
+[![E-mail](https://img.shields.io/badge/E--mail-Falar%20comigo-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:igormaicon2018@gmail.com)
 
 ---
 
-### Tecnologias e Ferramentas
-
-Aqui estão algumas das tecnologias com as quais estou trabalhando:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Igor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Igor-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
----
-
-### Estatísticas do GitHub
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igormaicon&show_icons=true&theme=radical)
-
----
-
-### Contatos
-
-Vamos nos conectar! Aqui estão meus links para contato:
-
-<div>
-  <a href="https://www.youtube.com/@igormmuniz" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/igormaicon011" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:igormaicon2018@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/igormaicon" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-    <a href="https://wa.me/11964295460" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-  </a>   
-</div>
+*Compartilho aqui projetos e soluções que desenvolvo para aproximar tecnologia, dados e Segurança do Trabalho.*
