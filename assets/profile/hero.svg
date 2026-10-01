@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="350" viewBox="0 0 1000 350" role="img" aria-labelledby="title desc">
+<title id="title">Igor Muniz — Segurança, dados e tecnologia</title>
+<desc id="desc">Banner azul-escuro com linhas de dados animadas em ciano e um símbolo de proteção.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1425"/><stop offset="1" stop-color="#102c3b"/></linearGradient>
+ <linearGradient id="line"><stop stop-color="#34d399"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#22d3ee" stop-opacity=".14"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#6bc7d6" stroke-opacity=".06"/></pattern>
+ <clipPath id="bounds"><rect width="1000" height="350" rx="20"/></clipPath>
+ <style>@media (prefers-reduced-motion: reduce) { .motion { display:none; } }</style>
+</defs>
+<g clip-path="url(#bounds)">
+ <rect width="1000" height="350" fill="url(#bg)"/>
+ <rect width="1000" height="350" fill="url(#grid)"/>
+ <ellipse cx="810" cy="150" rx="285" ry="240" fill="url(#glow)"/>
+ <path d="M0 348H1000" stroke="url(#line)" stroke-width="4"/>
+ <path d="M660 0V350" stroke="#b0f2fa" stroke-opacity=".08"/>
+ <rect x="46" y="45" width="28" height="3" rx="1.5" fill="#67e8f9"/>
+ <text x="86" y="52" fill="#9ec4d1" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">SEGURANÇA · DADOS · TECNOLOGIA</text>
+ <text x="46" y="133" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Igor Muniz<tspan fill="#67e8f9">.</tspan></text>
+ <text x="49" y="177" fill="#b4c6d5" font-family="Arial,sans-serif" font-size="23">Da rotina operacional à solução digital.</text>
+ <rect x="48" y="212" width="144" height="34" rx="17" fill="#162f3f" stroke="#2b5365"/>
+ <text x="120" y="234" text-anchor="middle" fill="#b9e6ed" font-family="Arial,sans-serif" font-size="14">LOW-CODE</text>
+ <rect x="202" y="212" width="116" height="34" rx="17" fill="#162f3f" stroke="#2b5365"/>
+ <text x="260" y="234" text-anchor="middle" fill="#b9e6ed" font-family="Arial,sans-serif" font-size="14">ANALYTICS</text>
+ <rect x="328" y="212" width="142" height="34" rx="17" fill="#162f3f" stroke="#2b5365"/>
+ <text x="399" y="234" text-anchor="middle" fill="#b9e6ed" font-family="Arial,sans-serif" font-size="14">AUTOMAÇÃO</text>
+ <text x="49" y="302" fill="#7496a9" font-family="monospace" font-size="14">@igormaicon</text>
+ <g fill="none" stroke="#3c7082" stroke-width="1">
+  <path d="M702 260H949M702 218H949M702 176H949" stroke-opacity=".3"/>
+  <path d="M744 126V270M806 126V270M868 126V270M930 126V270" stroke-opacity=".2"/>
+  <path d="M708 245L749 228L790 235L833 188L879 202L940 151" stroke="url(#line)" stroke-width="3"/>
+ </g>
+ <g class="motion"><circle r="4" fill="#d3fff8"><animateMotion dur="7s" repeatCount="indefinite" path="M708 245L749 228L790 235L833 188L879 202L940 151"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="7s" repeatCount="indefinite"/></circle></g>
+ <g transform="translate(802 88)" fill="none" stroke="#67e8f9" stroke-width="2.5">
+  <path d="M0 -36L32 -23V0C32 24 0 43 0 43S-32 24-32 0V-23Z" fill="#0d2737"/>
+  <path d="M-13 0L-3 10L15 -10" stroke="#8bf4d0" stroke-linecap="round" stroke-linejoin="round"/>
+ </g>
+ <circle cx="940" cy="151" r="5" fill="#67e8f9"/>
+ <circle class="motion" cx="940" cy="151" r="8" fill="none" stroke="#67e8f9"><animate attributeName="r" values="8;24" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;0" dur="4s" repeatCount="indefinite"/></circle>
+ <text x="707" y="304" fill="#7ca1b2" font-family="monospace" font-size="12" letter-spacing="2">PROCESSOS / DADOS / SOLUÇÕES</text>
+</g>
+<rect x=".5" y=".5" width="999" height="349" rx="20" fill="none" stroke="#2e4a5c"/>
+</svg>

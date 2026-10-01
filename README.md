@@ -1,34 +1,52 @@
-# Olá, eu sou o Igor 👋
+<!-- Identidade visual e assets próprios: assets/profile/ -->
+<p align="center">
+  <img src="assets/profile/hero.gif" width="100%" alt="Igor Muniz — Segurança, dados e tecnologia. Da rotina operacional à solução digital." />
+</p>
 
-### Técnico de Segurança do Trabalho | Dados, automação e soluções low-code
+<p align="center">
+  <a href="https://www.linkedin.com/in/igormaicon"><img src="https://img.shields.io/badge/LINKEDIN-182B3D?style=for-the-badge&amp;logo=linkedin&amp;logoColor=67E8F9" alt="Conectar no LinkedIn" /></a>
+  <a href="mailto:igormaicon2018@gmail.com"><img src="https://img.shields.io/badge/CONTATO-182B3D?style=for-the-badge&amp;logo=gmail&amp;logoColor=67E8F9" alt="Enviar e-mail" /></a>
+  <a href="https://github.com/igormaicon?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-182B3D?style=for-the-badge&amp;logo=github&amp;logoColor=67E8F9" alt="Explorar repositórios" /></a>
+</p>
 
-Uno minha experiência em Segurança do Trabalho à tecnologia para organizar processos, automatizar rotinas e transformar dados em informações úteis para a tomada de decisão.
+## Sobre mim
 
-- 📊 Desenvolvo indicadores e dashboards para acompanhamento de resultados.
-- 🛠️ Crio soluções digitais para inspeções, procedimentos e gestão de atividades.
-- ⚙️ Trabalho principalmente com AppSheet, Google Sheets, Looker Studio e Google Apps Script.
-- 💻 Também desenvolvo projetos com JavaScript e Python.
+Sou **Técnico de Segurança do Trabalho** e desenvolvo ferramentas digitais para apoiar a operação. Conecto o conhecimento de campo à **análise de dados, automação e desenvolvimento low-code**, criando soluções para organizar informações e acompanhar resultados.
 
-### Projetos em destaque
+Meu trabalho passa por três frentes:
 
-- [Sistema de Procedimentos](https://github.com/igormaicon/Sistema-Procedimentos) — gestão de procedimentos e execuções, com controle de acesso, mídias e auditoria.
-- [Verificador de vencimento de documentos](https://github.com/igormaicon/Verificador) — script em Python para localizar datas de validade em arquivos PDF e sinalizar vencimentos.
-- [Gerador de QR Code](https://github.com/igormaicon/GeradorQrCode) — ferramenta em Python para gerar QR Codes a partir de textos ou links.
+- **Segurança e processos** — inspeções, procedimentos e acompanhamento de atividades.
+- **Dados e indicadores** — bases organizadas e dashboards para apoiar decisões.
+- **Soluções digitais** — aplicativos e automações para simplificar rotinas.
 
-### Ferramentas
+## Ferramentas & desenvolvimento
 
-![AppSheet](https://img.shields.io/badge/AppSheet-1A73E8?style=flat-square&logo=google&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Aplicações e automação**
 
-### Contato
+![AppSheet](https://img.shields.io/badge/AppSheet-182B3D?style=for-the-badge&logo=google&logoColor=67E8F9)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-182B3D?style=for-the-badge&logo=googleappsscript&logoColor=67E8F9)
+![JavaScript](https://img.shields.io/badge/JavaScript-182B3D?style=for-the-badge&logo=javascript&logoColor=67E8F9)
+![Python](https://img.shields.io/badge/Python-182B3D?style=for-the-badge&logo=python&logoColor=67E8F9)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igormaicon)
-[![E-mail](https://img.shields.io/badge/E--mail-Falar%20comigo-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:igormaicon2018@gmail.com)
+**Dados e visualização**
+
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-182B3D?style=for-the-badge&logo=googlesheets&logoColor=6EE7B7)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-182B3D?style=for-the-badge&logo=looker&logoColor=6EE7B7)
+
+## Projetos em destaque
+
+<a href="https://github.com/igormaicon/Sistema-Seguranca"><img src="assets/profile/seguranca.svg" width="100%" alt="Sistema de Segurança — Python, Flask e SQLite. Abrir repositório." /></a>
+
+Aplicação web em Python e Flask, com banco SQLite e funcionalidades para cadastro e gestão de colaboradores.
+
+<a href="https://github.com/igormaicon/Verificador"><img src="assets/profile/documentos.svg" width="100%" alt="Verificador de documentos — Python e automação de PDFs. Abrir repositório." /></a>
+
+Extrai datas de vigência de arquivos PDF e sinaliza documentos vencidos ou próximos do vencimento.
+
+<a href="https://github.com/igormaicon/GeradorQrCode"><img src="assets/profile/qrcode.svg" width="100%" alt="Gerador de QR Code — utilitário em Python. Abrir repositório." /></a>
+
+Gera QR Codes a partir de textos ou links, com escolha do nome do arquivo de saída.
 
 ---
 
-*Compartilho aqui projetos e soluções que desenvolvo para aproximar tecnologia, dados e Segurança do Trabalho.*
+<p align="center"><strong>Tecnologia aplicada à rotina. Dados a serviço das decisões.</strong><br /><sub>Igor Maicon Rocha de Jesus Muniz · @igormaicon</sub></p>
